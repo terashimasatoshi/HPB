@@ -1,1 +1,0 @@
-// UI extracted to page.tsx
